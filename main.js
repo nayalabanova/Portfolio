@@ -17,8 +17,3 @@ tabs.forEach(tab =>{
         tab.classList.add('filter-tab-active')
     })
 })
-
-/*=============== DARK LIGHT THEME ===============*/
-
-
-/*=============== SCROLL REVEAL ANIMATION ===============*/
